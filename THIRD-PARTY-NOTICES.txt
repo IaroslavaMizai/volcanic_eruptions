@@ -1,0 +1,8 @@
+Third-party components used by this website
+
+D3 Array v3.2.4 and D3 Geo v3.1.1
+Copyright 2010–2024 Mike Bostock
+Licensed under the ISC License.
+Project: https://d3js.org/
+
+The world-geometry.js file contains world-boundary geometry used to draw the map. Preserve the source attribution and license information associated with the geometry asset when redistributing this package.
